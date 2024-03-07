@@ -4,7 +4,6 @@ import 'package:flutter_travel/feature/presentation/screens/about/about_screen.d
 import 'package:flutter_travel/feature/presentation/screens/home/home_screen.dart';
 import 'package:flutter_travel/feature/presentation/screens/slash/splash_screen.dart';
 import 'package:get/get.dart';
-
 class Application extends StatelessWidget {
   const Application({super.key});
 
